@@ -54,6 +54,3 @@ This project is licensed under the MIT License.
 
 ---
 
-### 📌 Short Description (≤ 350 characters)
-
-A Flutter app that calculates daily carbon footprint based on food, transport, and energy use. Displays CO₂ output with personalized advice and weekly charts. Ideal for sustainability tracking and awareness.
