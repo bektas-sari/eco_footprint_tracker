@@ -1,6 +1,7 @@
-# Eco Footprint Tracker
+# Eco Footprint Tracker (Flutter APP)
 
-**Eco Footprint Tracker** is a Flutter application that allows users to calculate their daily carbon footprint based on food choices, transportation habits, and energy usage. The app provides simple input sliders and dropdowns, calculates estimated CO₂ emissions, and visualizes weekly impact using interactive bar charts.
+**Eco Footprint Tracker** is a Flutter application that allows users to calculate their daily carbon footprint based on food choices, transportation habits, and energy usage. 
+The app provides simple input sliders and dropdowns, calculates estimated CO₂ emissions, and visualizes weekly impact using interactive bar charts.
 
 ## 🌱 Features
 
