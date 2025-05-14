@@ -13,10 +13,6 @@ The app provides simple input sliders and dropdowns, calculates estimated CO₂ 
 * 🎯 Personalized feedback based on your results
 * 🧪 Clean UI optimized for daily use
 
-## 📸 Screenshots
-
-*(Include screenshots of HomeScreen, ResultScreen, and StatsScreen)*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -27,7 +23,7 @@ The app provides simple input sliders and dropdowns, calculates estimated CO₂ 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/eco_footprint_tracker.git
+git clone https://github.com/bektas-sari/eco_footprint_tracker.git
 cd eco_footprint_tracker
 flutter pub get
 flutter run
